@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasks-react-redux/static/css/main.2f2d4b5d.css",
+    "main.js": "/tasks-react-redux/static/js/main.92887293.js",
+    "index.html": "/tasks-react-redux/index.html",
+    "main.2f2d4b5d.css.map": "/tasks-react-redux/static/css/main.2f2d4b5d.css.map",
+    "main.92887293.js.map": "/tasks-react-redux/static/js/main.92887293.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f2d4b5d.css",
+    "static/js/main.92887293.js"
+  ]
+}
